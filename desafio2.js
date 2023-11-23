@@ -27,7 +27,7 @@ function calcularRanqueadasJogadas (vitorias, derrotas) {
 
 let contador = 0;
 do {
-    calcularRanqueadasJogadas (29,25);
+    calcularRanqueadasJogadas (29, 25);
     calcularRanqueadasJogadas (148, 67);
     calcularRanqueadasJogadas (79, 26);
     calcularRanqueadasJogadas (98, 51);
